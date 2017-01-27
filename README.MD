@@ -30,7 +30,7 @@ To execute the algorithms you just need to run the index file in the prompt.
 Example:
 
 ```sh
-$ go run main\index.go
+$ go run main.go
 ```
 
 ### Tests

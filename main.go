@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 
-	"../n2"
+	"./n2"
 
-	"../nlogn"
+	"./nlogn"
 
-	"../n"
+	"./n"
 )
 
 func main() {
