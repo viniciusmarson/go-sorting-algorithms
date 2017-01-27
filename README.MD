@@ -45,6 +45,23 @@ $ go test -v
 
 Example:
 
-![result.png](http://image.prntscr.com/image/0a18596061d44af3a1c9f1618ee02548.png)
+```sh
+C:\dev\github\go-sorting-algorithms\test (master)
+λ go test -v
+=== RUN   TestBubbleSort
+--- PASS: TestBubbleSort (0.00s)
+=== RUN   TestCountingSort
+--- PASS: TestCountingSort (0.00s)
+=== RUN   TestInsertionSort
+--- PASS: TestInsertionSort (0.00s)
+=== RUN   TestMergeSort
+--- PASS: TestMergeSort (0.00s)
+=== RUN   TestQuickSort
+--- PASS: TestQuickSort (0.00s)
+=== RUN   TestSelectionSort
+--- PASS: TestSelectionSort (0.00s)
+PASS
+ok      _/C_/dev/github/go-sorting-algorithms/test      0.248s
+```
 
 ![Go](http://nordicapis.com/wp-content/uploads/golang-hemmingway-with-a-martini-02-243x300.png)
