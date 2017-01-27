@@ -40,7 +40,7 @@ You will find the tests in the test folder.
 In a terminal window run the command:
 
 ```sh
-$ go test -test.v
+$ go test -v
 ```
 
 Example:
