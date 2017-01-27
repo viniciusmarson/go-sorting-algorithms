@@ -33,4 +33,18 @@ Example:
 $ go run main\index.go
 ```
 
+### Tests
+
+You will find the tests in the test folder.
+
+In a terminal window run the command:
+
+```sh
+$ go test -test.v
+```
+
+Example:
+
+![result.png](http://image.prntscr.com/image/505cf7287a434380b5e21d3aedb2fdda.png)
+
 ![Go](http://nordicapis.com/wp-content/uploads/golang-hemmingway-with-a-martini-02-243x300.png)
