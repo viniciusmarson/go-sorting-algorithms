@@ -35,15 +35,32 @@ $ go run main.go
 
 ### Tests
 
-You will find the tests in the test folder.
+Install [go-expect](https://github.com/viniciusmarson/go-expect):
+
+```sh
+$ go get github.com/viniciusmarson/go-expect/expect
+```
 
 In a terminal window run the command:
 
 ```sh
-$ go test -test.v
+$ go test -v
 ```
 
 Example:
+
+```sh
+C:\dev\github\go-sorting-algorithms\n2 (master)
+λ go test -v
+=== RUN   TestBubbleSort
+--- PASS: TestBubbleSort (0.00s)
+=== RUN   TestInsertionSort
+--- PASS: TestInsertionSort (0.00s)
+=== RUN   TestSelectionSort
+--- PASS: TestSelectionSort (0.00s)
+PASS
+ok      _/C_/dev/github/go-sorting-algorithms/n2        0.398s
+```
 
 ![result.png](http://image.prntscr.com/image/505cf7287a434380b5e21d3aedb2fdda.png)
 
