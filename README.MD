@@ -62,6 +62,4 @@ PASS
 ok      _/C_/dev/github/go-sorting-algorithms/n2        0.398s
 ```
 
-![result.png](http://image.prntscr.com/image/505cf7287a434380b5e21d3aedb2fdda.png)
-
 ![Go](http://nordicapis.com/wp-content/uploads/golang-hemmingway-with-a-martini-02-243x300.png)
